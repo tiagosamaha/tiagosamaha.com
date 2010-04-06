@@ -1,0 +1,15 @@
+application: tiagosamaha
+version: 1
+runtime: python
+api_version: 1
+
+handlers:
+- url: /media
+  static_dir: src/media
+
+- url: /static
+  static_dir: src/static
+
+- url: /
+  static_files: src/templates/main.html
+  upload: src/templates/(.*)
