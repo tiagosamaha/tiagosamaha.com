@@ -35,22 +35,22 @@ div.menu strong {
   margin-bottom: 5px;
 }
 
-div.fallowme_images {
+div.followme_images {
   text-align: center;
   margin-bottom: 15px;
 }
 
-div.fallowme_images_left {
+div.followme_images_left {
   display: inline;
   margin-right: 10px;
 }
 
-div.fallowme_images_right {
+div.followme_images_right {
   display: inline;
   margin-left: 10px;
 }
 
-div.fallowme img {
+div.followme img {
   height: 20px;    
 }
 
